@@ -1,0 +1,28 @@
+
+{namespace wubbz}
+
+
+/**
+ * Shows how close we are to a word count goal.
+ * @param goal the word count goal.
+ * @param percent the percent of the way to the goal.
+ * @param width what percent of the progress bar to color.
+ */
+{template .progress}
+  <h3>{$percent}% of the way to our goal of {$goal} words!</h3>
+  <div class="progress progress-danger progress-striped active">
+    <div class="bar" style="width: {$width}%"></div>
+  </div>
+{/template}
+
+
+/**
+ * A dictionary word.
+ * @param name the word.
+ * @param definition an english description of the word.
+ */
+{template .word}
+  <h3>{$name}</h3>
+  <br />
+  <p>{$definition}</p>
+{/template}

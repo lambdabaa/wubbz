@@ -1,0 +1,40 @@
+{
+  "checks": {
+    "accessControls": "WARNING",
+    "ambiguousFunctionDecl": "ERROR",
+    "checkRegExp": "ERROR",
+    "checkTypes": "ERROR",
+    "checkVars": "ERROR",
+    "const": "ERROR",
+    "deprecated": "ERROR",
+    "duplicate": "ERROR",
+    "externsValidation": "ERROR",
+    "fileoverviewTags": "ERROR",
+    "globalThis": "ERROR",
+    "internetExplorerChecks": "WARNING",
+    "invalidCasts": "ERROR",
+    "missingProperties": "ERROR",
+    "nonStandardJsDocs": "ERROR",
+    "strictModuleDepCheck": "ERROR",
+    "undefinedVars": "ERROR",
+    "unknownDefines": "ERROR",
+    "uselessCode": "WARNING",
+    "visibility": "WARNING"
+  },
+  "externs": [
+    "//webkit_console.js",
+    "../js/externs/firebase.js",
+    "../js/externs/path.js"
+  ],
+  "id": "wubbz",
+  "inputs": [
+    "../js/src/app.js"
+  ],
+  "level": "VERBOSE",
+  "mode": "SIMPLE",
+  "output-wrapper": "(function(){%output%;wubbz.App.init();})();",
+  "paths": [
+    "../js"
+  ],
+  "property-map-output-file": "../public/bookmarklet.js.map"
+}
