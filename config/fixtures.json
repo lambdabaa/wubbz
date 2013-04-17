@@ -1,25 +1,115 @@
 {
-  "count": 8,
+  "count": 41,
   "letters": {
+    "A": {
+      "albi": "A very loving baby"
+    },
+    "B": {
+      "bee": "Me",
+      "beaner": "One who means",
+      "beano": "Mean old",
+      "bob": "Mom",
+      "bide": "Mine",
+      "biss": "To miss"
+    },
+    "C": {
+      "cwazy": "Crazy"
+    },
+    "D": {
+      "dow": "Now",
+      "durse": "Nurse"
+    },
+    "F": {
+      "fanks": "Thanks",
+      "fanks you": "Thank you"
+    },
+    "H": {
+      "homb": "Home",
+      "horbey": "Harvey",
+      "hwo": "Hello"
+    },
+    "K": {
+      "king widas": "King Linus"
+    },
+    "P": {
+      "peepee": "Penis",
+      "peepeequibwent": "Penis equivalent"
+    },
+    "R": {
+      "rararange": "La Boulange"
+    },
+    "S": {
+      "stwetcherd": "One who stretches"
+    },
     "W": {
       "weawwy": "Really",
+      "weeb": "To leave",
+      "weeber": "One who leaves",
+      "weeberd": "One who leaves",
+      "weez": "A romantic partner (playful)",
+      "weoww": "Where",
+      "widas": "Linus",
       "widoo": "I know",
       "wifune": "With you",
+      "wiso": "A romantic partner",
+      "worbster": "Harvey",
+      "worbey": "Harvey",
+      "wubstick": "Love stick",
+      "wubber": "Lover",
+      "wubu": "Love you",
       "wusbird": "A very loving bird",
       "wusba": "A woman in a very loving relationship",
       "wusbo": "A man in a very loving relationship",
       "wusdog": "A very loving dog",
       "wuz": "Love"
+    },
+    "Y": {
+      "yesuar": "Yes you are",
+      "youweez": "You romantic partner (playful)"
     }
   },
   "words": {
+    "albi": "A very loving baby",
+    "bee": "Me",
+    "beaner": "One who means",
+    "beano": "Mean old",
+    "bob": "Mom",
+    "bide": "Mine",
+    "biss": "To miss",
+    "cwazy": "Crazy",
+    "dow": "Now",
+    "durse": "Nurse",
+    "fanks": "Thanks",
+    "fanks you": "Thank you",
+    "homb": "Home",
+    "horbey": "Harvey",
+    "hwo": "Hello",
+    "king widas": "King Linus",
+    "peepee": "Penis",
+    "peepeequibwent": "Penis equivalent",
+    "rararange": "La Boulange",
+    "stwetcherd": "One who stretches",
     "weawwy": "Really",
+    "weeb": "To leave",
+    "weeber": "One who leaves",
+    "weeberd": "One who leaves",
+    "weez": "A romantic partner (playful)",
+    "weoww": "Where",
+    "widas": "Linus",
     "widoo": "I know",
     "wifune": "With you",
+    "wiso": "A romantic partner",
+    "worbster": "Harvey",
+    "worbey": "Harvey",
+    "wubstick": "Love stick",
+    "wubber": "Lover",
+    "wubu": "Love you",
     "wusbird": "A very loving bird",
     "wusba": "A woman in a very loving relationship",
     "wusbo": "A man in a very loving relationship",
     "wusdog": "A very loving dog",
-    "wuz": "Love"
+    "wuz": "Love",
+    "yesuar": "Yes you are",
+    "youweez": "You romantic partner (playful)"
   }
 }

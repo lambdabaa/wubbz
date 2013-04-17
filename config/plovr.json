@@ -31,7 +31,7 @@
     "../js/src/app.js"
   ],
   "level": "VERBOSE",
-  "mode": "SIMPLE",
+  "mode": "ADVANCED",
   "output-wrapper": "(function(){%output%;wubbz.App.init();})();",
   "paths": [
     "../js"

@@ -151,7 +151,12 @@ wubbz.Model.prototype.load = function(cb) {
  * @param {Function=} opt_cb function callback.
  */
 wubbz.Model.prototype.onValue = function(snapshot, opt_cb) {
-  this.cache = snapshot.val();
+  var val = snapshot.val();
+  this.cache = {
+    count: val['count'],
+    letters: val['letters'],
+    words: val['words']
+  };
 
   // Report count
   for (var i = 0; i < this.countListeners.length; i++) {
